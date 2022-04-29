@@ -1,1 +1,1 @@
-alert("test");
+var login = prompt("hi ");
